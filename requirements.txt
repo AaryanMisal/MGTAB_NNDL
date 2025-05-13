@@ -15,6 +15,7 @@ numpy==1.23.5
 
 # Model training
 pytorch-lightning==1.9.5
+matplotlib
 
 # pip install torch==1.13.1
 # pip install torch-scatter -f https://data.pyg.org/whl/torch-1.13.0+cpu.html
