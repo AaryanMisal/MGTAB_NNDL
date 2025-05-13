@@ -19,21 +19,15 @@ You may just do
 ```shell script
 pip install -r requirements.txt
 ```
-or
-# Core packages
+
 pandas
 sentence-transformers
 ijson
 torch==2.1.0
 torchvision==0.16.0
 torchaudio==2.1.0
-
-# PyTorch Geometric (auto-installs compatible torch-scatter, etc.)
 torch-geometric==2.4.0
-
-# Machine learning utils
 scikit-learn==1.0.2
 numpy==1.23.5
-
-# Model training
 pytorch-lightning==1.9.5
+matplotlib
